@@ -25,19 +25,6 @@ This system employs several agents working together:
 
 
 **Note**: the system simulates trading decisions, it does not actually trade.
-
-## Disclaimer
-
-This project is for **educational and research purposes only**.
-
-- Not intended for real trading or investment
-- No warranties or guarantees provided
-- Past performance does not indicate future results
-- Creator assumes no liability for financial losses
-- Consult a financial advisor for investment decisions
-
-By using this software, you agree to use it solely for learning purposes.
-
 ## Table of Contents
 - [Setup](#setup)
   - [Using Poetry](#using-poetry)
